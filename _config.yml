@@ -2,12 +2,13 @@ name: Lettisches Haus in Freiburg
 favicon: null
 layout_spectrum: 0.26696636248379946
 typography_spectrum: 0.276059343945235
+title: Lettisches Haus in Freiburg
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-74761537-1
   facebook: null
   twitter: null
 opengraph:
