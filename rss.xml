@@ -4,7 +4,7 @@
         <description><![CDATA[Lettisches Haus in Freiburg]]></description>
         <link>http://www.lettischeshaus.de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 07:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 07:55:59 GMT</lastBuildDate>
         <atom:link href="http://www.lettischeshaus.de/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.lettischeshaus.de/2d85c736-8914-4a1c-acb0-5f388a072fba/index.html</link>
             <guid isPermaLink="false">2d85c736-8914-4a1c-acb0-5f388a072fba</guid>
             <pubDate>Thu, 21 Apr 2016 07:25:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67302ebe-abb8-480b-acb4-9280ca564148.jpg">]]></description>
+            <link>http://www.lettischeshaus.de/09fc6044-4008-423e-bfbf-3c9415a42b61/index.html</link>
+            <guid isPermaLink="false">09fc6044-4008-423e-bfbf-3c9415a42b61</guid>
+            <pubDate>Sat, 30 Apr 2016 07:55:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
