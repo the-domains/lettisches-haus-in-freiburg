@@ -1,6 +1,6 @@
 name: Lettisches Haus in Freiburg
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.276059343945235
 title: Lettisches Haus in Freiburg
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.27674910333007574
+    - '#e1ecfe'
+    - '#87827e'
+    - '#060702'
+    - '#3e3623'
+    - '#c6a700'
+  brandStrength: 0.25
   lightness: 0.10518318554386497
-  saturation: 0.009984474396333098
+  saturation: 0
   rhythmicContrast: 0.3801355343312025
 purpose: []
